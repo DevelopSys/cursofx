@@ -23,7 +23,5 @@ public class Main extends Application {
         launch(args);
     }
 
-    // change
-    // new change
-    // next change again
+    // no changes
 }
