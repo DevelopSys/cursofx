@@ -41,7 +41,6 @@ public class Controller_Arbol implements Initializable {
         implementaciones();
         iniciarArbol();
         accionesArbol();
-
     }
 
     private void implementaciones() {
