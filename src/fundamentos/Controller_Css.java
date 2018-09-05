@@ -22,5 +22,6 @@ public class Controller_Css implements Initializable {
 
     public void setScene(Scene scene) {
         this.scene = scene;
+        scene.getStylesheets().add(getClass().getResource("recursos/css/stylecss.css").toExternalForm());
     }
 }
